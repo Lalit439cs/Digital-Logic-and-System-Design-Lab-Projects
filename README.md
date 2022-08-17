@@ -7,4 +7,5 @@ Lab Report (.pdf)</br>
 Code file (.vhd)</br>
 Constraint file (.xdc)</br>
 Bitstream file (.bit)</br>
+some images 
 
