@@ -7,5 +7,7 @@ Lab Report (.pdf)</br>
 Code file (.vhd)</br>
 Constraint file (.xdc)</br>
 Bitstream file (.bit)</br>
-some images 
+some images </br>
 
+**DECLARATION** <br>
+Some of the lab projects also have contribution of Ishan Anchit as worked collaborately for  COP215 Labs, Digital-Logic-and-System-Design course(Prof Anshul Kumar,M Bala and Vireshwar Kumar).
